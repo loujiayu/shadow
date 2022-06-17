@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shadow/static/css/main.57def0c0.css",
-    "main.js": "/shadow/static/js/main.b13acc9f.js",
+    "main.js": "/shadow/static/js/main.b6648a39.js",
     "static/js/787.28cb0dcd.chunk.js": "/shadow/static/js/787.28cb0dcd.chunk.js",
     "static/media/Alibaba-PuHuiTi-Regular.otf": "/shadow/static/media/Alibaba-PuHuiTi-Regular.8e7033dc89a39fa4ac65.otf",
     "static/media/Alibaba-PuHuiTi-Light.otf": "/shadow/static/media/Alibaba-PuHuiTi-Light.a69a038c20e372ecf5fc.otf",
@@ -22,11 +22,11 @@
     "static/media/AlibabaSans-LightItalic.otf": "/shadow/static/media/AlibabaSans-LightItalic.c667be23367b30d944b6.otf",
     "index.html": "/shadow/index.html",
     "main.57def0c0.css.map": "/shadow/static/css/main.57def0c0.css.map",
-    "main.b13acc9f.js.map": "/shadow/static/js/main.b13acc9f.js.map",
+    "main.b6648a39.js.map": "/shadow/static/js/main.b6648a39.js.map",
     "787.28cb0dcd.chunk.js.map": "/shadow/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57def0c0.css",
-    "static/js/main.b13acc9f.js"
+    "static/js/main.b6648a39.js"
   ]
 }
