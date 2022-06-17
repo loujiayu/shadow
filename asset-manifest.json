@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/shadow/static/css/main.ad23039f.css",
+    "main.js": "/shadow/static/js/main.b13acc9f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/shadow/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Alibaba-PuHuiTi-Regular.otf": "/shadow/static/media/Alibaba-PuHuiTi-Regular.8e7033dc89a39fa4ac65.otf",
+    "static/media/Alibaba-PuHuiTi-Light.otf": "/shadow/static/media/Alibaba-PuHuiTi-Light.a69a038c20e372ecf5fc.otf",
+    "static/media/Alibaba-PuHuiTi-Medium.otf": "/shadow/static/media/Alibaba-PuHuiTi-Medium.8d0a5ee186a7e542a7a0.otf",
+    "static/media/Alibaba-PuHuiTi-Bold.otf": "/shadow/static/media/Alibaba-PuHuiTi-Bold.fc4f40f33824d7265152.otf",
+    "static/media/Alibaba-PuHuiTi-Heavy.otf": "/shadow/static/media/Alibaba-PuHuiTi-Heavy.cbe5cb7c99d1e404afcf.otf",
+    "static/media/logo.jpg": "/shadow/static/media/logo.3cb78007361e20fe22cd.jpg",
+    "static/media/AlibabaSans-Bold.otf": "/shadow/static/media/AlibabaSans-Bold.bfbc12e693e5805307d2.otf",
+    "static/media/AlibabaSans-Heavy.otf": "/shadow/static/media/AlibabaSans-Heavy.4a6aa6117d7d7185f415.otf",
+    "static/media/AlibabaSans-Medium.otf": "/shadow/static/media/AlibabaSans-Medium.270b7d08ed5f69181b25.otf",
+    "static/media/AlibabaSans-BoldItalic.otf": "/shadow/static/media/AlibabaSans-BoldItalic.20e20b4b8fbe70e6ced1.otf",
+    "static/media/AlibabaSans-MediumItalic.otf": "/shadow/static/media/AlibabaSans-MediumItalic.2abb864d86ef99ba1396.otf",
+    "static/media/AlibabaSans-Black.otf": "/shadow/static/media/AlibabaSans-Black.acc206c5d7466aca1709.otf",
+    "static/media/AlibabaSans-Regular.otf": "/shadow/static/media/AlibabaSans-Regular.a30edabff6de2a9c24cf.otf",
+    "static/media/AlibabaSans-Italic.otf": "/shadow/static/media/AlibabaSans-Italic.23c9a9d9ec165a1596dc.otf",
+    "static/media/AlibabaSans-HeavyItalic.otf": "/shadow/static/media/AlibabaSans-HeavyItalic.91e6e710ab9ba2d5fe91.otf",
+    "static/media/AlibabaSans-Light.otf": "/shadow/static/media/AlibabaSans-Light.7dbc5e15c5cf20f6c192.otf",
+    "static/media/AlibabaSans-LightItalic.otf": "/shadow/static/media/AlibabaSans-LightItalic.c667be23367b30d944b6.otf",
+    "index.html": "/shadow/index.html",
+    "main.ad23039f.css.map": "/shadow/static/css/main.ad23039f.css.map",
+    "main.b13acc9f.js.map": "/shadow/static/js/main.b13acc9f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/shadow/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad23039f.css",
+    "static/js/main.b13acc9f.js"
+  ]
+}
